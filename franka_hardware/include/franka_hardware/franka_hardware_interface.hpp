@@ -18,7 +18,6 @@
 #include <string>
 #include <vector>
 
-#include <hardware_interface/visibility_control.h>
 #include <franka_hardware/robot.hpp>
 
 #include <hardware_interface/hardware_info.hpp>
